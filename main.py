@@ -40,7 +40,7 @@ async def get_all_eclipses():
     """Retrieve a list of all lunar and solar eclipses from the dataset.
 
     Returns:
-        List[Eclipse]: A list of eclipse objects with date, type, visibility, and duration.
+        List[Eclipse]: A list of eclipse objects with date, type, visibility, and duration (minutes).
     """
     return get_eclipses()
 
@@ -49,7 +49,7 @@ async def get_next_eclipse():
     """Retrieve the next upcoming eclipse after the current date.
 
     Returns:
-        Eclipse: The next eclipse object with date, type, visibility, and duration.
+        Eclipse: The next eclipse object with date, type, visibility, and duration (minutes).
 
     Raises:
         HTTPException: 404 if no upcoming eclipses are found.
@@ -105,7 +105,7 @@ def get_eclipses(eclipse_type: Optional[str] = None):
         eclipse_type (Optional[str]): The type of eclipse to filter ("solar" or "lunar"), or None for all eclipses.
 
     Returns:
-        List[dict]: A list of eclipse records with date, type, visibility, and duration.
+        List[dict]: A list of eclipse records with date, type, visibility, and duration (minutes).
     """
     df = ECLIPSES_DF.copy()
 
