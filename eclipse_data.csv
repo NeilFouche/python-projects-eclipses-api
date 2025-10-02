@@ -1,0 +1,90 @@
+date;type;saros;magnitude;regions;sub_regions;duration_sec
+2021-06-10 10:43:06;Solar - Annular;147;0.943;Northern North America,Europe,Asia;Northern Canada,Greenland,Russia;231
+2021-12-04 07:34:38;Solar - Total;152;1.037;Antarctica,South Africa,Southern Atlantic;Antarctica;114
+2022-04-30 20:42:36;Solar - Partial;119;0.64;Southeastern  Pacific,Southern South America;;0
+2022-10-25 11:01:19;Solar - Partial;124;0.862;Europe,Northeastern Africa,Mid East,Western Asia;;0
+2023-04-20 04:17:55;Solar - Hybrid;129;1.013;Southeastern  Asia,East Indies,Australia,Philippines,New Zealand;Indonesia,Australia,Papua New Guinea;76
+2023-10-14 18:00:40;Solar - Annular;134;0.952;North America,Central America,South America;Western United States,Central America,Colombia,Brazil;317
+2024-04-08 18:18:29;Solar - Total;139;1.057;North America,Central America;Mexico,Central United States,Eastern Canada;268
+2024-10-02 18:46:13;Solar - Annular;144;0.933;Pacific,Southern South America;Southern Chile,Southern Argentina;445
+2025-03-29 10:48:36;Solar - Partial;149;0.938;Northwestern Africa,Europe,Northern Russia;;0
+2025-09-21 19:43:04;Solar - Partial;154;0.855;Southern Pacific,New Zealand,Antarctica;;0
+2026-02-17 12:13:05;Solar - Annular;121;0.963;Southern Argentina & Chile,Southern Africa,Antarctica;Antarctica;140
+2026-08-12 17:47:05;Solar - Total;126;1.039;Northern North America,Western Africa,Europe;Arctic,Greenland,Iceland,Spain;138
+2027-02-06 16:00:47;Solar - Annular;131;0.928;South America,Antarctica,Western & Southern Africa;Chile,Argentina,Atlantic;471
+2027-08-02 10:07:49;Solar - Total;136;1.079;Africa,Europe,Mid East,Western & Southern Asia;Morocco,Spain,Algeria,Libya,Egypt,Saudi Arabia,Yemen,Somalia;383
+2028-01-26 15:08:58;Solar - Annular;141;0.921;Eastern North America,Central & South America,Western Europe,Northwestern Africa;Ecuador,Peru,Brazil,Suriname,Spain,Portugal;627
+2028-07-22 02:56:39;Solar - Total;146;1.056;Southeastern  Asia,East Indies,Australia,New Zealand;Australia,New Zealand;310
+2029-01-14 17:13:47;Solar - Partial;151;0.871;North America,Central America;;0
+2029-06-12 04:06:13;Solar - Partial;118;0.458;Arctic,Scandanavia,Alaska,Northern Asia,Northern Canada;;0
+2029-07-11 15:37:18;Solar - Partial;156;0.23;Southern Chile,Southern Argentina;;0
+2029-12-05 15:03:57;Solar - Partial;123;0.891;Southern Argentina,Southern Chile,Antarctica;;0
+2030-06-01 06:29:13;Solar - Annular;128;0.944;Europe,Northern Africa,Mid East,Asia,Arctic,Alaska;Algeria,Tunisia,Greece,Turkey,Russia,Northern China,Japan;321
+2030-11-25 06:51:37;Solar - Total;133;1.047;Southern Africa,Southern Indian Ocean,East Indies,Australia,Antarctica;Botswana,South Africa,Australia;224
+2031-05-21 07:16:04;Solar - Annular;138;0.959;Africa,Southern Asia,East Indies,Australia;Angola,Congo,Zambia,Tanzania,Southern  India,Malaysia,Indonesia;326
+2031-11-14 21:07:30;Solar - Hybrid;143;1.011;Pacific,Southern United States,Central America,Northwestern South America;Pacific,Panama;68
+2032-05-09 13:26:42;Solar - Annular;148;0.996;Southern South America,Southern Africa;Southern Atlantic;22
+2032-11-03 05:34:12;Solar - Partial;153;0.855;Asia;;0
+2033-03-30 18:02:35;Solar - Total;120;1.046;North America;Eastern Russia,Alaska;157
+2033-09-23 13:54:31;Solar - Partial;125;0.689;Southern South America,Antarctica;;0
+2034-03-20 10:18:45;Solar - Total;130;1.046;Africa,Europe,Western Asia;Nigeria,Cameroon,Chad,Sudan,Egypt,Saudi Arabia,Iran,Afghanistan,Pakistan,India,China;249
+2034-09-12 16:19:27;Solar - Annular;135;0.974;Central America,South America;Chile,Bolivia,Argentina,Paraguay,Brazil;178
+2035-03-09 23:05:53;Solar - Annular;140;0.992;Australia,New Zealand,Southern Pacific,Mexico,Antarctica;New Zealand,Pacific;48
+2035-09-02 01:56:46;Solar - Total;145;1.032;Eastern Asia,Pacific;China,Korea,Japan,Pacific;174
+2036-02-27 04:46:49;Solar - Partial;150;0.629;Antarctica,Southern Australia,New Zealand;;0
+2036-07-23 10:32:06;Solar - Partial;117;0.199;Southern Atlantic;;0
+2036-08-21 17:25:45;Solar - Partial;155;0.862;Alaska,Canada,Arctic,Western Europe,Northwestern Africa;;0
+2037-01-16 09:48:55;Solar - Partial;122;0.705;Northern Africa,Europe,Mid East,Western Asia;;0
+2037-07-13 02:40:35;Solar - Total;127;1.041;East Indies,Australia,Pacific;Australia,New Zealand;238
+2038-01-05 13:47:10;Solar - Annular;132;0.973;Eastern North America,Northern South America,Atlantic,Africa,Europe;Cuba,Dominican Republic,Cote D'Ivoire,Ghana,Niger,Chad,Egypt;198
+2038-07-02 13:32:54;Solar - Annular;137;0.991;North & Central America,South America,Africa,Europe,Mid East;Colombia,Venezuela,Mauritania,Morocco,Mali,Niger,Chad,Sudan,Ethiopia,Kenya;60
+2038-12-26 01:00:10;Solar - Total;142;1.027;Southeastern  Asia,East Indies,Australia,New Zealand,Southern Pacific,Antarctica;Australia,New Zealand,Southern Pacific;138
+2039-06-21 17:12:53;Solar - Annular;147;0.945;North America,Western Europe;Alaska,Northern Canada,Norway,Sweden,Finland,Estonia,Russia;245
+2039-12-15 16:23:46;Solar - Total;152;1.036;Southern South America,Antarctica;Antarctica;111
+2040-05-11 03:43:02;Solar - Partial;119;0.531;Australia,New Zealand,Antarctica;;0
+2040-11-04 19:09:01;Solar - Partial;124;0.807;North & Central America;;0
+2021-05-26 11:19:53;Lunar - Total;121;1.009;Eastern Asia,Australia,Pacific,Americas;;11220
+2021-11-19 09:04:06;Lunar - Partial;126;0.974;Americas,Northern Europe,Eastern Asia,Australia,Pacific;;12480
+2022-05-16 04:12:42;Lunar - Total;131;1.414;Americas,Europe,Africa;;12420
+2022-11-08 11:00:22;Lunar - Total;136;1.359;Asia,Australia,Pacific,Americas;;13200
+2023-05-05 17:24:05;Lunar - Penumbral;141;-0.046;Africa,Asia,Australia;;0
+2023-10-28 20:15:18;Lunar - Partial;146;0.122;Eastern Americas,Europe,Africa,Asia,Australia;;4620
+2024-03-25 07:13:59;Lunar - Penumbral;113;-0.132;Americas;;0
+2024-09-18 02:45:25;Lunar - Partial;118;0.085;Americas,Europe,Africa;;3780
+2025-03-14 06:59:56;Lunar - Total;123;1.178;Pacific,Americas,Western Europe,Western Africa;;13080
+2025-09-07 18:12:58;Lunar - Total;128;1.362;Europe,Africa,Asia,Australia;;12540
+2026-03-03 11:34:52;Lunar - Total;133;1.151;Eastern Asia,Australia,Pacific,Americas;;12420
+2026-08-28 04:14:04;Lunar - Partial;138;0.93;Eastern Pacific,Americas,Europe,Africa;;11880
+2027-02-20 23:14:06;Lunar - Penumbral;143;-0.057;Americas,Europe,Africa,Asia;;0
+2027-07-18 16:04:09;Lunar - Penumbral;110;-1.068;Eastern Africa,Asia,Australia,Pacific;;0
+2027-08-17 07:14:59;Lunar - Penumbral;148;-0.525;Pacific,Americas;;0
+2028-01-12 04:14:13;Lunar - Partial;115;0.066;Americas,Europe,Africa;;3360
+2028-07-06 18:20:57;Lunar - Partial;120;0.389;Europe,Africa,Asia,Australia;;8460
+2028-12-31 16:53:15;Lunar - Total;125;1.246;Europe,Africa,Asia,Australia,Pacific;;12540
+2029-06-26 03:23:22;Lunar - Total;130;1.844;Americas,Europe,Africa,Mid East;;13200
+2029-12-20 22:43:12;Lunar - Total;135;1.117;Americas,Europe,Africa,Asia;;12780
+2030-06-15 18:34:34;Lunar - Partial;140;0.502;Europe,Africa,Asia,Australia;;8640
+2030-12-09 22:28:51;Lunar - Penumbral;145;-0.163;Americas,Europe,Africa,Asia;;0
+2031-05-07 03:52:02;Lunar - Penumbral;112;-0.09;Americas,Europe,Africa;;0
+2031-06-05 11:45:17;Lunar - Penumbral;150;-0.82;East Indies,Australia,Pacific;;0
+2031-10-30 07:46:45;Lunar - Penumbral;117;-0.32;Americas;;0
+2032-04-25 15:14:51;Lunar - Total;122;1.191;Eastern Africa,Asia,Australia,Pacific;;12660
+2032-10-18 19:03:40;Lunar - Total;127;1.103;Africa,Europe,Asia,Australia;;11760
+2033-04-14 19:13:51;Lunar - Total;132;1.094;Europe,Africa,Asia,Australia;;12900
+2033-10-08 10:56:23;Lunar - Total;137;1.35;Asia,Australia,Pacific,Americas;;12120
+2034-04-03 19:06:59;Lunar - Penumbral;142;-0.227;Europe,Africa,Asia,Australia;;0
+2034-09-28 02:47:37;Lunar - Partial;147;0.014;Americas,Europe,Africa;;1620
+2035-02-22 09:06:12;Lunar - Penumbral;114;-0.053;Eastern Asia,Pacific,Americas;;0
+2035-08-19 01:12:15;Lunar - Partial;119;0.104;Americas,Europe,Africa,Mid East;;4620
+2036-02-11 22:13:06;Lunar - Total;124;1.299;Americas,Europe,Africa,Asia,Western Australia;;12120
+2036-08-07 02:52:32;Lunar - Total;129;1.454;Americas,Europe,Africa,Western Asia;;13860
+2037-01-31 14:01:38;Lunar - Total;134;1.207;Eastern Europe,Eastern Africa,Asia,Australia,Pacific,North America;;11820
+2037-07-27 04:09:53;Lunar - Partial;139;0.809;Americas,Europe,Africa;;11520
+2038-01-21 03:49:52;Lunar - Penumbral;144;-0.114;Americas,Europe,Africa;;0
+2038-06-17 02:45:02;Lunar - Penumbral;111;-0.527;Eastern North America,Central & South America,Africa,Western Europe;;0
+2038-07-16 11:35:56;Lunar - Penumbral;149;-0.495;Australia,Eastern Asia,Pacific,Western Americas;;0
+2038-12-11 17:45:00;Lunar - Penumbral;116;-0.289;Europe,Africa,Asia,Australia;;0
+2039-06-06 18:54:25;Lunar - Partial;121;0.885;Europe,Africa,Asia,Australia;;10740
+2039-11-30 16:56:28;Lunar - Partial;126;0.943;Europe,Africa,Asia,Australia,Pacific;;12360
+2040-05-26 11:46:22;Lunar - Total;131;1.535;Eastern Asia,Australia,Pacific,Western Americas;;12660
+2040-11-18 19:04:41;Lunar - Total;136;1.397;Eastern Americas,Europe,Africa,Asia,Australia;;13200
